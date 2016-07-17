@@ -1,6 +1,7 @@
 # OPSkins-Quick-key-seller
 Efficient tool to quick sell your keys to OPSkins
 
+###To use, [download the extension from chrome store](https://chrome.google.com/webstore/detail/opskins-quick-key-seller/limdmjajelnibkhbgghkaafnclaljhil)
 
 
 ##Version 1.8 update(17/7/2016);
